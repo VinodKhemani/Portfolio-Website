@@ -992,6 +992,7 @@ h4 {
   .skills .box-header {
     transform: translateY(-50px);
     padding-bottom: 0;
+    padding-block: 20px;
   }
 
   .skills .box-container {
